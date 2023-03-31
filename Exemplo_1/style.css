@@ -54,16 +54,16 @@
   }
   
   .header {
-    background: tomato;
+    background:deepskyblue;
   }
   
   .footer {
-    background: lightgreen;
+    background: white;
   }
   
   .main {
     text-align: left;
-    background: deepskyblue;
+    background: rgba(7, 137, 180, 0.744);
   }
   
   .aside-1 {
